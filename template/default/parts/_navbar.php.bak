@@ -14,14 +14,6 @@ $main_menus = [
   'libinfo' => [
     'text' => __('Information'),
     'url' => 'index.php?p=libinfo'
-	  ],
-  'login' => [
-    'text' => __('Login Pengelola'),
-    'url' => 'index.php?p=login'
-	  ],
-  'visitor' => [
-    'text' => __('Buku Tamu'),
-    'url' => 'index.php?p=visitor'
   ],
   'news' => [
     'text' => __('News'),
